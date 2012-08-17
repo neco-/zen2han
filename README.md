@@ -1,8 +1,8 @@
 zen2han
 =======
 
-Vim script to convert Zenkaku to Hankaku using perl.
-You can also use in vim without +perl.
+- Vim script to convert Zenkaku to Hankaku using perl.
+- You can also use in vim without +perl.
 
 ----
 settings:
