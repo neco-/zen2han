@@ -1,12 +1,13 @@
 zen2han
 =======
 
-vim script to convert Zenkaku to Hankaku.
+Vim script to convert Zenkaku to Hankaku using perl.
+You can also use in vim without +perl.
 
 ----
 settings:
 
-    " install path
+    " install path (in .vimrc)
     let g:zen2han_path = $HOME . "/.vim/bundle/zen2han"
 
 ----
